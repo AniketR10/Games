@@ -1,4 +1,5 @@
 #include<iostream>
+#include<algorithm>
 using namespace std;
     string n1="";
     string n2="";
